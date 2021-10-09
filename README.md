@@ -1,5 +1,5 @@
 ### Hi there 👋
-Rishi here
+<b>Rishi here</b>
 <br>                                                
 I'm currently doing Competitive Programming, Full-Stack Development.
 <br>
