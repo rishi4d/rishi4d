@@ -1,7 +1,7 @@
 ### Hi there 👋
-### Rishi here
+Rishi here
                                                     
-I'm currently doing Competitive Programming, Full-Stack Development.
+###I'm currently doing Competitive Programming, Full-Stack Development.
 Ping me for collabs.
                                                     
 
