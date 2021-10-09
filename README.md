@@ -1,10 +1,9 @@
 ###                                                 Hi there 👋
-                                                    Rishi here
+###                                                 Rishi here
                                                     
-                                                    I'm currently doing Competitive Programming, Full-Stack Development.
-                                                    Ping me for collabs.
+###                                                 I'm currently doing Competitive Programming, Full-Stack Development.
+###                                                 Ping me for collabs.
                                                     
-                                                    https://www.linkedin.com/in/rishi4d/
 
 <!--
 **rishi4d/rishi4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
