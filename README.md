@@ -1,7 +1,7 @@
 ### Hi there 👋
 <b>Rishi this side</b>
 <br>                                                
-I'm currently doing Competitive Programming, Full-Stack Development.
+I'm currently doing Competitive Programming, Full-Stack Development & also looking ahead to IOT, RPPico C/C++ Programming.
 <br>
 Ping me for collabs.
 
