@@ -6,7 +6,9 @@
 I'm currently doing Competitive Programming, Full-Stack Development & also looking ahead to IoT, RPPico C/C++ Programming.
 <br><br>
 <b>Get in touch</b>
-Connect with me on <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>(https://www.linkedin.com/in/rishi4d/)
+<br>
+Connect with me on
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rishi4d/)
 
 <br>
 <a href='rishi4d.in'>rishi4d</a>
