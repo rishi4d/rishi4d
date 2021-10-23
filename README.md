@@ -8,7 +8,7 @@ I'm currently doing Competitive Programming, Full-Stack Development & also looki
 <br>
 <a href='https://www.hackerrank.com/rishi4d'><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <br><br>
-<b>Get in touch</b>
+<h4><b>Get in touch</b></h4>
 <br>
 Connect with me on
 <br>
