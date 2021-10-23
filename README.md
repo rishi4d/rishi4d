@@ -7,9 +7,8 @@ I'm currently doing Competitive Programming, Full-Stack Development & also looki
 <a href='https://www.codechef.com/users/rishi_26'><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
 <br>
 <a href='https://www.hackerrank.com/rishi4d'><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<br><br>
+<br>
 <h3>Get in touch</h3>
-Connect with me on
 <br>
 <a href='https://www.linkedin.com/in/rishi4d/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br>
