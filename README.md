@@ -2,18 +2,15 @@
 <b>Rishi this side</b>
 
 <h3>Welcome to my GitHub profile</h3>
-<br>                                                
+<hr>                                                
 I'm currently doing Competitive Programming, Full-Stack Development & also looking ahead to IoT, RPPico C/C++ Programming.
-
 <br><br>
 <b>Get in touch</b>
 
 Connect with me on  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rishi4d/)
-
 <br>
 <a href='rishi4d.in'>rishi4d</a>
-
 <!--
 **rishi4d/rishi4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
