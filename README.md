@@ -11,7 +11,6 @@ I'm currently doing Competitive Programming, Full-Stack Development & also looki
 <h3>Get in touch</h3>
 <br>
 Connect with me on
-<br>
 <a href='https://www.linkedin.com/in/rishi4d/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br>
 <a href='rishi4d.in'>rishi4d</a>
