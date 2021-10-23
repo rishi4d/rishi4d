@@ -2,15 +2,19 @@
 <b>Rishi this side</b>
 
 <h3>Welcome to my GitHub profile</h3>
-<hr>                                                
+<hr>
+I'm currently doing Competitive Programming, Full-Stack Development & also looking ahead to IoT, RPPico C/C++ Programming.
 <ul>
-  <li>I'm currently doing Competitive Programming, Full-Stack Development & also looking ahead to IoT, RPPico C/C++ Programming.</li>
-
+  <li><a href='https://www.codechef.com/users/rishi_26'><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
+</li>
+  <li><a href='https://www.hackerrank.com/rishi4d'><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+</li>
 </ul>
 <br><br>
 <b>Get in touch</b>
 <br>
 Connect with me on
+<br>
 <a href='https://www.linkedin.com/in/rishi4d/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br>
 <a href='rishi4d.in'>rishi4d</a>
