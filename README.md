@@ -7,8 +7,7 @@ I'm currently doing Competitive Programming, Full-Stack Development & also looki
 <br><br>
 <b>Get in touch</b>
 <br>
-Connect with me on
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rishi4d/)
+Connect with me on <a href='https://www.linkedin.com/in/rishi4d/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>]</a>
 
 <br>
 <a href='rishi4d.in'>rishi4d</a>
