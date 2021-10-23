@@ -1,7 +1,7 @@
 ### Hi there 👋
 <b>Rishi this side</b>
 
-<h3>Welcome to my GitHub profile</h3>
+<h3>Welcome to my GitHub profile 💙</h3>
 <hr>
 I'm currently doing Competitive Programming, Full-Stack Development & also looking ahead to IoT, RPPico C/C++ Programming.<br><br>
 <a href='https://www.codechef.com/users/rishi_26'><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
@@ -11,7 +11,7 @@ I'm currently doing Competitive Programming, Full-Stack Development & also looki
 <h3>Get in touch</h3>
 <a href='https://www.linkedin.com/in/rishi4d/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br>
-<a href='rishi4d.in'>rishi4d</a>
+<a href='https://rishi4d.in'>rishi4d</a>
 <!--
 **rishi4d/rishi4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
