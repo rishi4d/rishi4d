@@ -3,8 +3,9 @@
 
 <h3>Welcome to my GitHub profile</h3>
 <hr>
-I'm currently doing Competitive Programming, Full-Stack Development & also looking ahead to IoT, RPPico C/C++ Programming.<br>
+I'm currently doing Competitive Programming, Full-Stack Development & also looking ahead to IoT, RPPico C/C++ Programming.<br><br>
 <a href='https://www.codechef.com/users/rishi_26'><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
+<br>
 <a href='https://www.hackerrank.com/rishi4d'><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <br><br>
 <b>Get in touch</b>
