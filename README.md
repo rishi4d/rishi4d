@@ -1,7 +1,7 @@
 ### Hi there 👋
 <b>Rishi this side</b>
 
-<h3>Welcome to my GitHub profile 💙</h3>
+<h3>Welcome to my GitHub profile 💙💙</h3>
 <hr>
 <h4>I'm currently doing Competitive Programming, Full-Stack Development & also looking ahead to IoT, RPPico C/C++ Programming.</h4>
 <a href='https://www.codechef.com/users/rishi_26'><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
